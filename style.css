@@ -1,0 +1,28 @@
+body{
+ background-color: #f3f4f5;
+   
+}
+.navbar{
+    background: #030352; 
+background: -webkit-linear-gradient(to right, #030352, #e85c25); 
+background: linear-gradient(to right, #030352, #e85c25); 
+
+}
+.jumbotron{
+    padding-top: 85px;
+    background: #030352; 
+    background: -webkit-linear-gradient(to right, #030352, #e85c25); 
+    background: linear-gradient(to right, #030352, #e85c25); 
+}
+section{
+    padding-top:5rem;
+}
+#projects{
+    background-color: #0a8694;
+}
+footer{
+    background-color: #0a8694;
+}
+a{
+    text-decoration: none;
+}
